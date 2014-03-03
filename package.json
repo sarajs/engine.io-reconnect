@@ -21,6 +21,7 @@
     "websocket"
   ],
   "dependencies": {
+    "bind": "*",
     "bind-component": "*",
     "debug": "*"
   },
